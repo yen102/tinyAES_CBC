@@ -1,0 +1,3 @@
+include ':tinyAES-CBC'
+include ':app'
+rootProject.name = "TestLIb"
